@@ -4,3 +4,6 @@ defn uc upper
 defn ucs upper
 defn tlcs lower
 defn lcs lower
+
+defn ccs camel_case
+defn snc snake_case
