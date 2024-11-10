@@ -1,4 +1,6 @@
-
 defn tuc upper
+defn tucs upper
 defn uc upper
-defn tlc lower
+defn ucs upper
+defn tlcs lower
+defn lcs lower
